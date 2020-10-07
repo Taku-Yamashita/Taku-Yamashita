@@ -3,6 +3,8 @@
 <img src="https://raw.githubusercontent.com/Taku-Yamashita/Taku-Yamashita/master/images/sea.jpg"/>
 
 ![](https://komarev.com/ghpvc/?username=Taku-Yamashita)
+![](https://github.com/Taku-Yamashita/php-cli/workflows/Build/badge.svg)
+![](https://github.com/Taku-Yamashita/php-cli/workflows/Test/badge.svg)
 
 <!--
 **Taku-Yamashita/Taku-Yamashita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
